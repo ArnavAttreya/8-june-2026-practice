@@ -1,4 +1,4 @@
-// So today i have solved 5 tuples / pairs problems
+// So today i have solved 5 tuple / pair problems
 
 // leetcode 167. Two Sum II - Input Array Is Sorted
 // (brute force)
